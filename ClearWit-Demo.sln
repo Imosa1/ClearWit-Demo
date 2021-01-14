@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ClearWit-Demo", "ClearWit-Demo\ClearWit-Demo.pyproj", "{1271EDCA-C0F0-42B7-B354-91765304209A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1271EDCA-C0F0-42B7-B354-91765304209A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1271EDCA-C0F0-42B7-B354-91765304209A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {970346EC-5C2D-41C6-9045-8C78B0DDD3FD}
+	EndGlobalSection
+EndGlobal
